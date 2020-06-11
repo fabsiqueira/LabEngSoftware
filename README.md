@@ -10,6 +10,7 @@
 
 <h2>Demonstração: </h2>
 
+<img src= "icons/calc-gif.gif" alt="port_ok.gif">
 
 
  
