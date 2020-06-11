@@ -8,7 +8,7 @@
 <img src= "icons/gradle.png" height = "100px;"> 
 <img src= "icons/jetty.png" height = "90px;">
 
-<h2>Demonstração: </h2>
+<h2>Demonstração do Protótipo Navegável: </h2>
 
 <img src= "icons/calc-gif.gif" alt="port_ok.gif">
 
