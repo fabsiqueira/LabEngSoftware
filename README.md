@@ -10,7 +10,7 @@
 
 <h2>Demonstração do Protótipo Navegável: </h2>
 
-<img src= "icons/calc-gif.gif" alt="port_ok.gif">
+<img src= "icons/calc-gif.gif" alt="port_ok.gif" style="max-width:100%;">
 
 
  
