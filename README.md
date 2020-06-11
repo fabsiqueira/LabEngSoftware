@@ -2,4 +2,4 @@
 
 ## Calculadora ##
 <p> Tecnologias Utilizadas: </p>
-<img src= ""> 
+<img src= "icons/gradle.png"> 
