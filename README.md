@@ -1,6 +1,8 @@
 # Laboratório de Engenharia de Software 
 
-## Calculadora ##
-<p> Tecnologias Utilizadas: </p>
-<img src = "icons/java.png" height = "40px" style = max-width:100%;>
-<img src= "icons/gradle.png"> 
+<h1> Calculadora </h1> 
+<h2> Tecnologias Utilizadas: </h2>
+<img src = "icons/java.png" height = "90px;"> <img src= "icons/gradle.png" height = "90px;"> <img src= "icons/jetty.png" height = "90px;">
+
+
+ 
