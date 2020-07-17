@@ -16,5 +16,7 @@
 
 <h2>Demonstração da exibição do Histórico das operações realizadas: </h2>
 
+<img src= "icons/historico.gif" alt="port_ok.gif" style="max-width:100%;">
+
 
  
