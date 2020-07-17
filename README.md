@@ -8,10 +8,13 @@
 - <img src = "icons/java.png" height = "60px;"> 
 - <img src= "icons/gradle.png" height = "100px;"> 
 - <img src= "icons/jetty.png" height = "50px;">
-
+- <img src = "icons/MariaDB_Logo.png" height = "50px;">
+- <img src = "icons/Hibernate_logo_a.png" height = "50px;">
 <h2>Demonstração do Protótipo Navegável: </h2>
 
 <img src= "icons/calc-gif.gif" alt="port_ok.gif" style="max-width:100%;">
+
+<h2>Demonstração da exibição do Histórico das operações realizadas: </h2>
 
 
  
